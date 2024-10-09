@@ -19,7 +19,7 @@ export const smartHomeData = {
 	],
 	climate: {
 		temperature: 24,
-		humidity: 50,
+		humidity: 51,
 	},
 	blinds: 'open',
 	energyConsumption: {
